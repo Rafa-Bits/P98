@@ -1,0 +1,7 @@
+body {background-color: darkolivegreen;}
+h1 {font-family: Comic;color: whitesmoke;}
+h4 {font-family: Comic;color: whitesmoke;}
+#camera {width: 500px;height: 400;border: 1.5px;border-color: darkorange;}
+img {width: 37%;padding: 10px;}
+.column {padding: 10px;display: inline;}
+.copy_right_footer {position: fixed;bottom: 0;width: 100%;background-color: darkolivegreen;color: whitesmoke;text-align: center;}
